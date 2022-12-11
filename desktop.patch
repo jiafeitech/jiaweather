@@ -1,0 +1,14 @@
+--- src/gnome-weather/data/org.gnome.Weather.desktop.in.in	2022-12-11 16:22:01.833671523 +0700
++++ src/gnome-weather/data/org.gnome.Weather.desktop.in.new.in	2022-12-11 16:28:39.003522425 +0700
+@@ -1,9 +1,9 @@
+ [Desktop Entry]
+ Type=Application
+-Name=Weather
++Name=JIΛweather
+ Comment=Show weather conditions and forecast
+ # Translators: Do NOT translate or transliterate this text (this is an icon file name)!
+-Icon=@APP_ID@
++Icon=/usr/share/icons/cvm-ui-icons/weather.png
+ Exec=gapplication launch @APP_ID@
+ DBusActivatable=true
+ StartupNotify=true

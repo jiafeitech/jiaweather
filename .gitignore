@@ -1,0 +1,9 @@
+*
+
+!*.patch
+!PKGBUILD
+!.gitignore
+!*.sh
+!LICENSE
+!README.md
+!weather.png
